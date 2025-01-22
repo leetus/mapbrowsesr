@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GtagMapBrowser",
   "resources": {
-    "hash": "sha256-3dLALsyQnrVIH1HPjwCKjwwYLZLQCaMHa1jwvejjegc=",
+    "hash": "sha256-MnRXOQ9MDNHcicWWnBZLf0tjOk4MYVnxXrENoYvj76k=",
     "jsModuleNative": {
       "dotnet.native.8.0.12.h0ixbr7az4.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "GtagMapBrowser.wasm": "sha256-dTsBA3LgXyc+NiRPdMHzBI43LH1rtFVl34VerS/TTQQ=",
+      "GtagMapBrowser.wasm": "sha256-UFxbXfnsxdjim1FBfws64CZ0wqmPRBp+8jPSow1S0aY=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-un0mWHcNYsRjdRZz/RwoEXZ36QV3diPGsr1753foDzQ=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-dfmA8Era1Hlp+UoZWBBAegUVuj42Ci8okbbWtIHfyPI=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-SYARg2pDFH0tGC+Q+NalKlL45h/ETHY5RCB6SY+lhk0=",
